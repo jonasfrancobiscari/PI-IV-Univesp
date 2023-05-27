@@ -9,11 +9,11 @@ Projeto Integrador IV:
 - Tratamento e Visualização de dados pelo Power BI;
 
 # Integrantes
-Cassiano Rodrigues Faustino
-Célio Alves Lemes Júnior
-Cristiane Félix Moreira Martins
-Dzyan Mendes Oliveira Lima
-Flavio Ramos Nogueira
-Jonas Franco Biscari
-Luciano Alves Moreira
-Marcos Diório
+- Cassiano Rodrigues Faustino
+- Célio Alves Lemes Júnior
+- Cristiane Félix Moreira Martins
+- Dzyan Mendes Oliveira Lima
+- Flavio Ramos Nogueira
+- Jonas Franco Biscari
+- Luciano Alves Moreira
+- Marcos Diório
